@@ -1,0 +1,32 @@
+#button1
+{
+    background-color: cornsilk;
+}
+body
+{
+    
+    padding-top: 30px;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/99/94/abstract-asphalt-road-isolated-on-white-background-vector-4389994.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron
+{
+    padding-top: 35px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    background-color:orchid;
+}
+.jumbotron:hover{
+    background-color: rgb(240, 128, 128);
+}
+h1:hover{
+    color:#6495ED;
+}
+#form1
+{
+    padding-top: 20px;
+    padding-right: 50%;
+}
